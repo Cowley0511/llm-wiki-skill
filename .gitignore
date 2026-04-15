@@ -18,3 +18,13 @@ web/dist/
 # OS
 .DS_Store
 obsidian-releases/
+
+# Knowledge base — keep private, never push
+bss-wiki/
+
+# Other common wiki locations
+wiki/
+raw/
+audit/
+outputs/
+
